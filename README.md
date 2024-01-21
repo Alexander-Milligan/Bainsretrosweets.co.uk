@@ -5,7 +5,7 @@
     <h2>Repository Purpose</h2>
     <p>In this repository, I employ a systematic approach to meticulously document and track the ongoing changes and updates to my work. The README record serves as a dynamic log, providing a detailed account of each modification made to the project.</p>
     <p>Due to the sensitive nature of the files involved, the actual project is hosted live, and for security reasons, the codebase may not be publicly accessible in this repository. However, I invite you to explore the live project to witness the implementation and evolution of my work firsthand.</p>
-    You can access the live project <a href="https://saltirewebsites.com/MyPortfolio/">here</a>
+    You can access the live project <a href="[https://saltirewebsites.com/MyPortfolio/](https://www.bainsretrosweets.co.uk/site/)">here</a>
 </h3>
 
 <h3 align="center">
