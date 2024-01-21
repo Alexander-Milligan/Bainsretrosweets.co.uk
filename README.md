@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3 align="center">
     <h2>Welcome to My Project Status Record for: Bainsretrosweets.co.uk</h2>
 </h3>
@@ -28,3 +29,7 @@
 </h3>
 
 <h3 align="left">Connect with me: Alexander0milligan@gmail.com</h3>
+=======
+# Bainsretrosweets.co.uk
+This repository has been created to recorad the development of bainsretrosweets.
+>>>>>>> b521ee1264ea039820663614ac0b091ba7aa51b7
