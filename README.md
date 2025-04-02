@@ -1,4 +1,4 @@
-# Bains Retro Sweets
+# Bainsretrosweets.co.uk
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.bainsretrosweets.co.uk%2Fsite)](https://www.bainsretrosweets.co.uk/site)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexander-Milligan/BainsRetroSweets)](https://github.com/Alexander-Milligan/BainsRetroSweets)
